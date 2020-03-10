@@ -1,5 +1,4 @@
 #!bin/bash
-#HNew Update
 x=$(lsb_release -a)
 echo "$x"
 
